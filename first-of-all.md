@@ -2,6 +2,7 @@
 
 ## Теория
   - [ ] [Javascript](#Javascript-)
+  - [ ] [React JS] (#React JS-)
   - [ ] [Node js](#Node js-)
   - [ ] [Bash](#Bash-)
   
