@@ -5,6 +5,7 @@
   - [ ] [React JS] (#React JS-)
   - [ ] [Node js](#Node js-)
   - [ ] [Bash](#Bash-)
+  - [ ] [Vim (vimtutor)](#vim-)
   
 ## Практика
   - [ ] [Docker](#Docker-)
