@@ -6,6 +6,13 @@
   - [ ] [Node js](#Node js-)
   - [ ] [Bash](#Bash-)
   - [ ] [Vim (vimtutor)](#vim-)
+
+## JavaScript + Node JS
+  - [ ] [Книга "Выразительный JavaScript"]
+  - [ ] [Асинхронное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Asynchronous.md)
+  - [ ] [Технологический стек Node.js](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS.md)
+
+  [Весь курс](https://github.com/HowProgrammingWorks/Index) 
   
 ## Практика
   - [ ] [Docker](#Docker-)
