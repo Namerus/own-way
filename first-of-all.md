@@ -2,7 +2,7 @@
 
 ## Теория
   - [ ] [Javascript](#Javascript-)
-  - [ ] [React JS] (#React JS-)
+  - [ ] [React JS] https://ru.reactjs.org/tutorial/tutorial.html https://ru.reactjs.org/docs/getting-started.html
   - [ ] [Node js](#Node js-)
   - [ ] [Bash](#Bash-)
   - [ ] [Vim (vimtutor)](#vim-)
